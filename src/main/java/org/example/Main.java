@@ -8,5 +8,6 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println(add(3, 3));
+		System.out.println("增加新的分支！");
     }
 }
